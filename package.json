@@ -2,10 +2,10 @@
   "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://Pavlo-Ivanochok.github.io/MyRepoForTask9",
+  "homepage": "https://PavloIvanochokQA.github.io/JavaScript_HW-09",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /MyRepoForTask9"
+    "build": "parcel build src/*.html --public-url /JavaScript_HW-09"
   },
   "repository": {
     "type": "git",
